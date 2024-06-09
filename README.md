@@ -5,6 +5,8 @@ My passion is to build awesome website and share my experience to the world. I l
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+
 ## Skills: 
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
