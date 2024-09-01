@@ -16,7 +16,6 @@ My passion is to build awesome website and share my experience to the world. I l
 
 ## 📖  What I am currently learning / improving on
 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 
 ## What I am interested in learning at some point
