@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-
+<br><br>
 
 # Hi 👋, I am Rohan
 My passion is to build awesome website and share my experience to the world. I like to read and learn new things, especially about SEO and Web Design and then applying them in my work, I work on my own to build Chiplate.
