@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" >
-</div>
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" hight='50'>
+<br><br>
 
 # Hi 👋, I am Rohan
 My passion is to build awesome website and share my experience to the world. I like to read and learn new things, especially about SEO and Web Design and then applying them in my work, I work on my own to build Chiplate.
