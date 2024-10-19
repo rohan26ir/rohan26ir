@@ -34,7 +34,7 @@ My passion is to build awesome website and share my experience to the world. I l
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 
-| <a href="https://www.chiplate.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan26ir&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Rohan's github stats" /></a> | <a href="https://www.chiplate.com/rohan26ir/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+
 | ------------- | ------------- |
 
 
