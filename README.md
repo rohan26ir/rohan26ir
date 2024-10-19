@@ -21,7 +21,7 @@ My passion is to build awesome website and share my experience to the world. I l
 &nbsp;
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.auth0.com/blog/react-js/react.png" alt="Repository Icon" width="120" height="120" />
 
 ## 📖  What I am currently improving on
 
