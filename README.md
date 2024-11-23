@@ -53,4 +53,4 @@ My passion is to build awesome website and share my experience to the world. I l
 
 ### 📊 Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rohan26ir=anuraghazra&layout=compact)
+
