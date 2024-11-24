@@ -53,10 +53,7 @@ My passion is to build awesome website and share my experience to the world. I l
 
 ### 📊 Github Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan26ir&show_icons=true&locale=en&layout=compact" alt="rohan26ir" /></p> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan26ir&show_icons=true&locale=en&layout=compact" alt="rohan26ir" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan26ir&show_icons=true&locale=en" alt="rohan26ir" />
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan26ir&show_icons=true&locale=en" alt="rohan26ir" /></p>
 
