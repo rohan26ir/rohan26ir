@@ -54,50 +54,7 @@ My passion is to build awesome website and share my experience to the world. I l
 ### 📊 Github Stats
 
 
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-top: 20px;
-    animation: fadeIn 2s ease-in-out;
-  }
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rohan26ir&show_icons=true&locale=en" alt="rohan26ir" /></p>
 
-  .stats-card {
-    border: 2px solid #e1e4e8;
-    border-radius: 10px;
-    padding: 10px;
-    transition: transform 0.3s ease;
-  }
-
-  .stats-card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
-
-<div class="container">
-  <div class="stats-card">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohan26ir&show_icons=true&locale=en" alt="rohan26ir" />
-  </div>
-  <div class="stats-card">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan26ir&show_icons=true&locale=en&layout=compact" alt="rohan26ir" />
-  </div>
-</div>
-
-
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan26ir&show_icons=true&locale=en&layout=compact" alt="rohan26ir" /></p> 
 
