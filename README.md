@@ -24,7 +24,11 @@ My passion is to build awesome website and share my experience to the world. I l
 
 ## 📖  What I am currently improving on
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<p align="center">
+  <a href="https://rohansfolio.web.app/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
 
 ## What I am interested in learning at some point
 
