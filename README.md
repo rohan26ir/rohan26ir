@@ -38,7 +38,8 @@ My passion is to build awesome website and share my experience to the world. I l
   </a>
 </p>
 
-// https://github.com/tandpfun/skill-icons
+
+<!-- https://github.com/tandpfun/skill-icons -->
 
 
 
