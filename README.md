@@ -52,10 +52,9 @@ My passion is to build awesome website and share my experience to the world. I l
   <a href="https://www.facebook.com/rohan26ir/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rohan26ir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 
   <details>
-  <summary>G📊 Github Stats ⚡</summary>
+  <summary>📊 Github Stats </summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rohan26ir&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
