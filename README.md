@@ -27,7 +27,7 @@ My passion is to build awesome website and share my experience to the world. I l
 
 <p align="center">
   <a href="https://rohansfolio.web.app/">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,npm,firebase,mongodb,express,react,nodejs" />
   </a>
 </p>
 
