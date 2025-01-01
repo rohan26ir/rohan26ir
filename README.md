@@ -65,7 +65,7 @@ My passion is to build awesome website and share my experience to the world. I l
 
 
   <details>
-  <summary> ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats </summary>
+  <summary> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> <h3> Github Stats </h3> </summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rohan26ir&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
