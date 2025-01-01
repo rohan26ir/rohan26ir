@@ -1,11 +1,19 @@
 
 <a href="https://git.io/typing-svg" align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Rowdies&size=30&pause=1000&color=C70039&width=435&lines=Code+to+Create%2C;Build+to+inspire." alt="Typing SVG" />
+<img  data-original-height="711" data-original-width="1920" height="149" 
+  src="https://readme-typing-svg.demolab.com?font=Rowdies&size=30&duration=1000&pause=2000&color=C70039&width=435&lines=Code+to+Create%2C;Build+to+inspire." 
+  alt="Typing SVG" />
 </a>
+
+
+
+<!-- 
 
 <p align="center">
   <img border="0" data-original-height="711" data-original-width="1920" height="149" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWjzl2pZfucZiUBtp4C4wp8_U7sjayEVM12ZC4QMnpxk9MzeyUBKpeJSD4jYmK4mSlXThniNLZn7qky82fe-D_OiXi_PFqs6dj2MUmWgGVd6nSH7s7eYVuq9Ot-iNmGzJQZmaiksyHKVzipjQSpUSkfK2T76K0We4N6rP5p_u0pUbCkkQvv1FhBlSsySjV/w400-h149/ezgif.com-animated-gif-maker.gif" width="400" />
 </p>
+
+-->
 
 # Hi 👋, I am Rohan
 My passion is to build awesome website and share my experience to the world. I like to read and learn new things, especially about SEO and Web Design and then applying them in my work, I work on my own to build Chiplate.
