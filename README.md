@@ -25,6 +25,13 @@ My passion is to build awesome website and share my experience to the world. I l
 &nbsp;
 <img src="https://cdn.auth0.com/blog/react-js/react.png" alt="Repository Icon" width="52" height="52" />
 
+<p align="center">
+  <a href="https://rohansfolio.web.app/">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
 ## 📖  What I am currently improving on
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
