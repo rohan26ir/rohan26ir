@@ -59,11 +59,22 @@ My passion is to build awesome website and share my experience to the world. I l
  
   <summary> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> <h3> Github Stats </h3> </summary>
 
-  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohan26ir&theme=dark&hide_border=false)
-
+  <div style="display: flex; gap: 20px; border: 2px solid #ddd; padding: 20px; border-radius: 8px;">
+  <!-- Left side -->
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan26ir&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  </div>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rohan26ir&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <!-- Right side -->
+  <div style="flex: 2; display: flex; flex-direction: column; gap: 20px;">
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api?username=rohan26ir&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github Stats">
+    </a>
+    <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages">
+    </a>
+  </div>
+</div>
 
 
 
