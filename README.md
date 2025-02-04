@@ -1,9 +1,11 @@
 
-<a href="https://rohansfolio.web.app/" align="center">
-<img  data-original-height="711" data-original-width="1920" height="149" 
-  src="https://readme-typing-svg.demolab.com?font=Rowdies&size=30&duration=8000&pause=50&color=C70039&width=435&lines=Code+to+Create%2C;Build+to+inspire."
-  alt="Typing SVG" />
-</a>
+<div style="text-align: center;">
+    <a href="https://rohansfolio.web.app/">
+        <img data-original-height="711" data-original-width="1920" height="149" 
+            src="https://readme-typing-svg.demolab.com?font=Rowdies&size=30&duration=8000&pause=50&color=C70039&width=435&lines=Code+to+Create%2C;Build+to+inspire."
+            alt="Typing SVG" />
+    </a>
+</div>
 
 
 
