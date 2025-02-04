@@ -22,8 +22,10 @@
 # Hi 👋, I am Rohan
 My passion is to build awesome website and share my experience to the world. I like to read and learn new things, especially about SEO and Web Design and then applying them in my work, I work on my own to build Chiplate.
 
-- 🔭 I’m currently working on Website 
-- 👯 I’m looking to collaborate on github 
+- 🔭 I’m currently working on Gaming Website 
+- 👯 I’m looking to collaborate on github
+- 🌱 I’m currently learning **Next.Js**
+- 📫 How to reach me **rohan26ir@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=roan26ir&abbreviated=true)
 
