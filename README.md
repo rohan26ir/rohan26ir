@@ -45,6 +45,8 @@ My passion is to build awesome websites and share my experiences with the world.
 <div style="display: flex; gap: 20px; border: 2px solid #ddd; padding: 20px; border-radius: 8px;">
     <div style="flex: 1;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan26ir&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages">
+        
     </div>    
     <div style="flex: 2; display: flex; flex-direction: column; gap: 20px;">
         <a href="#">
