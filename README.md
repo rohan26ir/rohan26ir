@@ -28,26 +28,12 @@ My passion is to build awesome website and share my experience to the world. I l
 
 <p align="center">
   <a href="https://rohansfolio.web.app/">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,npm,firebase,mongodb,express,react,nodejs,git,github,vscode,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,npm,firebase,mongodb,express,react,nodejs,nextjs,git,github,vscode,vercel,vite" />
   </a>
 </p>
 
 
-## 📖  What I am currently improving on
 
-<p align="center">
-  <a href="https://rohansfolio.web.app/">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs" />
-  </a>
-</p>
-
-## What I am interested in learning at some point
-
-<p align="center">
-  <a href="https://rohansfolio.web.app/">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
-  </a>
-</p>
 
 
 <!-- https://github.com/tandpfun/skill-icons -->
@@ -59,17 +45,15 @@ My passion is to build awesome website and share my experience to the world. I l
 ## ☕ Connect with me!
 <p align="center">
   <a href="mailto:rohan26ir@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/rohan26ir/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/rohan26ir/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mahedul23/"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rohan26ir/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  <details>
+ 
   <summary> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> <h3> Github Stats </h3> </summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=rohan26ir&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
 
 
 
