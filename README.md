@@ -29,11 +29,12 @@ My passion is to build awesome website and share my experience to the world. I l
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom"> Skills: 
 
-<p align="center">
-  <a href="https://rohansfolio.web.app/">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,npm,firebase,mongodb,express,react,nodejs,nextjs,git,github,vscode,vercel,vite" />
-  </a>
-</p>
+<div style="text-align: center;">
+    <a href="https://rohansfolio.web.app/">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,npm,firebase,mongodb,express,react,nodejs,nextjs,git,github,vscode,vercel,vite" />
+    </a>
+</div>
+
 
 
 
