@@ -9,7 +9,10 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rohan26ir&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rohan26ir&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</a>
+
 
 
 <!-- 
@@ -24,7 +27,6 @@
 My passion is to build awesome website and share my experience to the world. I like to read and learn new things, especially about SEO and Web Design and then applying them in my work, I work on my own to build Chiplate.
 
 - 🔭 I’m currently working on Website 
-- 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 
 ![](https://komarev.com/ghpvc/?username=roan26ir&abbreviated=true)
