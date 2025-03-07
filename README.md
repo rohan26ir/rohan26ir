@@ -62,7 +62,8 @@ My passion is to build awesome website and share my experience to the world. I l
   <div style="display: flex; gap: 20px; border: 2px solid #ddd; padding: 20px; border-radius: 8px;">
   <!-- Left side -->
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan26ir&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan26ir&theme=dark&hide_border=false" alt="GitHub Streak Stats"> -->
+      <img src="https://github-readme-stats.vercel.app/api?username=rohan26ir&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan26ir&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages">
   </div>
   
